@@ -23,7 +23,7 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="davi_e" height="30" width="40" /></a>
  <a href="https://t.me/CryQuarterback" target="blank"><img align="center"
-      src="https://www.svgrepo.com/show/3109/telegram.svg"
+      src="https://icons8.com/icon/oWiuH0jFiU0R/telegram-app"
       alt="dave_t" height="30" width="40" /></a>
 </p>
 
