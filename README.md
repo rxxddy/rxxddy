@@ -24,7 +24,7 @@
       alt="davi_e" height="30" width="40" /></a>
  <a href="https://t.me/CryQuarterback" target="blank"><img align="center"
       src="https://seeklogo.com/images/T/telegram-logo-52EACC2D94-seeklogo.com.png"
-      alt="dave_t" height="30" width="40" /></a>
+      alt="dave_t" height="30" width="30" /></a>
 </p>
 
 <br>
