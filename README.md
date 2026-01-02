@@ -6,7 +6,7 @@ I am a technical specialist focused on secure software architecture, modern web 
 
 ### 🖋️ About Me
 
-Currently based in Pavia/Milan, I balance my academic path at the **University of Pavia** with intensive technical development. My work is centered on the intersection of offensive security and scalable web engineering. I have a proven track record of delivering responsive interfaces and integrating complex business logic into existing ERP frameworks.
+Currently based in Milan, I balance my academic path at the **University of Pavia** with intensive technical development. My work is centered on the intersection of offensive security and scalable web engineering. I have a proven track record of delivering responsive interfaces and integrating complex business logic into existing ERP frameworks.
 
 * **Cybersecurity Focus:** Dedicated to the **OSCP path**. I specialize in penetration testing, network vulnerability assessment, and implementing secure coding practices from the ground up.
 * **Web Engineering:** Expert-level proficiency in the **React and Next.js** ecosystem. I build scalable, performance-oriented applications with a focus on clean code and robust architecture.
