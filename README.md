@@ -16,7 +16,7 @@ Currently based in Milan, I balance my academic path at the **University of Pavi
 ---
 
 ### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giorgiovedenin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:george.wedenin@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giorgiovedenin)
 
 ---
 
