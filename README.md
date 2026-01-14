@@ -1,22 +1,22 @@
-# Georgii | Developer & Cybersecurity Researcher
+# Technical Profile: Security & Systems Engineering
 
-I am a technical specialist focused on secure software architecture, modern web development, and AI-driven automation. With over 4 years of experience in the digital ecosystem, I bridge the gap between building high-performance applications and ensuring their security.
+## Focus Areas
+* Offensive Security: OSCP methodology, network and web penetration testing.
+* Software Engineering: Scalable web architecture and ERP systems.
+* AI Engineering: Multi-provider LLM integration (OpenAI, Anthropic, Gemini API), RAG architecture, and development of agentic workflows.
 
----
+## Technical Stack
+* Languages: Python, JavaScript (ES6+).
+* Web: React, Next.js.
+* ERP: Odoo (Functional customization, module development).
+* AI/ML: API orchestration (GPT-4, Claude 3.5, Gemini Pro), advanced prompt engineering, context-aware development.
 
-### 🖋️ About Me
-
-Currently based in Milan, I balance my academic path at the **University of Pavia** with intensive technical development. My work is centered on the intersection of offensive security and scalable web engineering. I have a proven track record of delivering responsive interfaces and integrating complex business logic into existing ERP frameworks.
-
-* **Cybersecurity Focus:** Dedicated to the **OSCP path**. I specialize in penetration testing, network vulnerability assessment, and implementing secure coding practices from the ground up.
-* **Web Engineering:** Expert-level proficiency in the **React and Next.js** ecosystem. I build scalable, performance-oriented applications with a focus on clean code and robust architecture.
-* **ERP & Systems:** Experienced in the **Odoo** ecosystem. I handle functional configuration, business workflow optimization, and database management with a focus on real-world efficiency.
-* **AI & Automation:** I actively integrate Large Language Models (LLMs) and automation tools into my development workflow to accelerate delivery and enhance code reliability.
-
----
-
-### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/giorgiovedenin)
+## Education & Linguistic Context
+* Academic: University of Pavia (Science politiche e delle relazioni internazionali).
+* Russian: Native.
+* English: Professional.
+* Italian: B2.
+* German: Elementary.
 
 ---
 
