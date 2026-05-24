@@ -11,13 +11,6 @@
 * ERP: Odoo (Functional customization, module development).
 * AI/ML: API orchestration (GPT-4, Claude 3.5, Gemini Pro), advanced prompt engineering, context-aware development.
 
-## Education & Linguistic Context
-* Academic: University of Pavia (Science politiche e delle relazioni internazionali).
-* Russian: Native.
-* English: Professional.
-* Italian: B2.
-* German: Elementary.
-
 ---
 
 ## Tech Stack
